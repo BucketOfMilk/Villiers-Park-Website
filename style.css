@@ -111,7 +111,7 @@
 	cursor: pointer;
 }
 .body{
-	position: fixed;
+	position: absolute;
 	text-align: center;
 	top: 40%;
 	font-family: "Verdana";
