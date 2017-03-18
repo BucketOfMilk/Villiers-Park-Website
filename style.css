@@ -113,14 +113,14 @@
 .body{
 	position: fixed;
 	text-align: center;
-	top: 20%;
+	top: 40%;
 	font-family: "Verdana";
 	font-size: 20px;
 	color:#333;
 	float:none;
 }
 .image{
-	top:55%;
+	top:65%;
 	position:fixed;
 	width:40%;
 	height:auto;
